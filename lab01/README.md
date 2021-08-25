@@ -3,7 +3,7 @@
 
 ## Tarefa 1 sobre APIs de acesso
 
-[notebook](notebook/lab01-api.ipynb)
+[Link para o notebook](notebook/lab01-api.ipynb)
 
 ## Tarefa 2 sobre Engenharia Reversa
 
