@@ -23,7 +23,7 @@ O software foi desenvolvido na linguagem Java e com banco de dados PostgreSQL. E
 ## Perguntas de pesquisa/análises
 
 * Quais os trabalhos e os artigos de um determinado professor?
-*	Quais os trabalhos mais recente (por exemplo, de 2018 pra frente)?
+*	Quais os trabalhos mais recentes (por exemplo, de 2018 pra frente)?
 *	Quais os trabalhos que são de uma determinada conferência ou journal?
 *	Quais professores realizaram trabalhos juntos?
 *	Os trabalhos de um determinado professor são recentes ou antigos?
